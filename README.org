@@ -1,0 +1,9 @@
+* jonathan
+
+JSON encoder and decoder.
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/rudolph-miller/jonathan.git |
+| commit  | fb83ff0                                            |
+| systems | jonathan                                           |
+|---------+----------------------------------------------------|
